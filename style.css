@@ -1,4 +1,13 @@
+header {
+    display: flex;
+    contain:content;
+    background-color: black;
+    flex: wrap ;
+}
+
 h1 {
     block-size: auto;
     color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
 }
