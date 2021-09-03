@@ -1,16 +1,24 @@
-header {
+.header{
+    position: fixed;
+    border-left: px solid #000;
+}
+
+header h1 {
     display: flex;
     contain:content;
     background-color: black;
     flex: wrap ;
-}
-
-h1 {
     block-size: auto;
     color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
+} 
+
+p
+
+.link{
+    display: block;
+    
 }
-a {
-    color: #EA350F;
-}
+
+
