@@ -10,7 +10,7 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #d41111;
+    background-color: #1190d480;
 }
 
 .header{
@@ -28,7 +28,27 @@ header h1 {
     color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
-} 
+}
+
+.images {
+    max-width: 100%
+    }
+
+#twitter{
+    width:100%;
+    position:relative;
+    right:-1500px;
+}
+
+#linkedin {}
+
+#email{
+
+    width:100%;
+    position:relative;
+    right:-1500px;
+    background-color: brown;
+}
 
 .me {
     display: block;
@@ -36,9 +56,9 @@ header h1 {
     font-family: 'Times New Roman', Times, serif;
     flex: auto;
 }
-
-.images {
-    display: block;
+.footer{
+    font-size: 20px;
+    color: rgb(63, 145, 70);
 }
 
 
