@@ -1,4 +1,7 @@
-* {    box-sizing: border-box;
+* 
+
+
+{    box-sizing: border-box;
         padding: 0;
         margin: 0;
 }
@@ -10,10 +13,13 @@ body {
     margin-bottom: 1.5rem;
 }
 
-
+.header{
+    width: 100%;
+}
 
 .header h1  {
     padding: 20px ;
+    
     display: flex;
     contain:content;
     background-color: black;
@@ -23,15 +29,17 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
 }
- .header  a {
+
+
+ /* .header  a {
     padding:  1px 2px;
     width: 100;
-    flex: wrap;
+    flex : wrap;
     position:relative;
     right: -900px;
     
     
- }
+ } */
 
 
 
