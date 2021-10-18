@@ -6,7 +6,7 @@ on the header i used three workable links ( twitter, linkedin, email). those thr
 
 # the 3 boxes:
 
-Twitter box: i wanted to play with the text-shadows to give a different feel to it. on the box i also did a blurry box-shadow effect.
+About me box: i wanted to play with the text-shadows to give a different feel to it. on the box i also did a blurry box-shadow effect.
 
 linkedin box: i left the text plain to put more focus on the box-shadow effects. On this one I use two different box-shadow effects to add rainbow like effect to the box
 
@@ -14,9 +14,9 @@ Email: On this box i used the hover effect. When you hover the email box the ima
 
 # footer:
 
-on the footer i place two linkes "Twitter" and "Linkedin". when you click on them they will redirect you  to those website.
+on the footer i place three links "Github","Linkedin" and "email'. when you click on them they will redirect you  to those website.
 
 
 # link
 
-https://rob49157.github.io/portfolio/#github 
+https://rob49157.github.io/portfolio
