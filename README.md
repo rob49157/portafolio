@@ -20,3 +20,7 @@ on the footer i place three links "Github","Linkedin" and "email'. when you clic
 # link
 
 https://rob49157.github.io/portfolio
+
+# screenshot
+
+![](https://user-images.githubusercontent.com/88434699/138015102-fc1a0d3b-4a1d-4480-8b8c-242d839acc6a.png)
