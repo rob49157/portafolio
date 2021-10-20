@@ -7,11 +7,11 @@
 }
 /* make it tablet ready */
 body {
-    background-color: #1190d480;
+    background-color: #40be7980;
     flex: 1 0 100%;
    transition: flex-basis 500ms linear;
     margin-bottom: 1.5rem;
-}
+} 
 
 .header{
     width: 100%;
@@ -25,7 +25,7 @@ body {
     background-color: black;
     flex-wrap: wrap ;
     /* block-size: 40; */
-    color: aqua;
+    color:  #1D7595;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
 }
