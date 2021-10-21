@@ -140,7 +140,7 @@ body {
  
   
  
-     /* @media screen and (min-width:768px) {
+       /* @media screen and (min-width:768px) {
         .body{
             flex: 0 0 50%;
             max-width: 50%;
@@ -148,12 +148,12 @@ body {
          body:last-child {
              flex-grow: 1;
          }
-    }
+    } 
         
     @media screen and (min-width: 992px) {
        .header a{
            right:  -900px;
           
-       } */
+       }  */
        
    }  
